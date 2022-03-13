@@ -3,7 +3,7 @@
 
 Click the button below to deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?https://github.com/Decayautumn/shadowsocks-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?https://github.com/Decayautumn/VPNtest/tree/main)
 
 ## 0. Attention
 
